@@ -98,7 +98,6 @@ Deaf individuals rely on sign language to communicate, but most people around th
 ## 👥 Team
 
 Project built as part of the **Embedded Systems Diploma** at AMIT Learning.
-Team size: up to 3 members.
 
 ---
 
